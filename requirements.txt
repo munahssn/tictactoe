@@ -1,0 +1,5 @@
+This project uses only Python’s standard library (tkinter, random). 
+We do not need to install anything additionally, other than python. 
+All sprites are drawn by me on Aseprite.
+
+Simply run the python file to start the game!
